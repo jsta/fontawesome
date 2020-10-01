@@ -4,7 +4,6 @@
 
 1. Edit `fontawesome.html` to show your desired icon
 
-2. 
- ```
- make fontawesome.png
- ```
+2. `make fontawesome.png`
+
+<img src="https://github.com/jsta/fontawesome/blob/master/fontawesome.png">
